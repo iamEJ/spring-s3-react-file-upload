@@ -2,7 +2,7 @@ package com.amigoscode.awsimageupload.bucket;
 
 public enum BucketName {
 
-    PROFILE_IMAGE("amigoscode-image-upload-123");
+    PROFILE_IMAGE("profile-pictures-meme"); // your bucket name on amazon aws
 
     private final String bucketName;
 
